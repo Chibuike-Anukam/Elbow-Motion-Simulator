@@ -53,11 +53,10 @@ Supervisor: Dr. Louis Ferriera
 Date: December 2024
 
 ## Documentation
-Complete project documentation includes:
-- CAD files and technical drawings
+Complete project documentation is contained in the final design report (see PDF). It includes:
+- Images of CAD models and technical drawings
 - Design analysis and material specifications
 - Project planning documentation (Gantt, CPM, QFD)
-- Final design report with detailed analysis
 
 
 This was a student design project completed for academic purposes. The design provides a foundation for elbow implant testing but would require further development and regulatory approval for commercial implementation.
